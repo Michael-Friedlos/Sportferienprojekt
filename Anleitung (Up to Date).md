@@ -91,7 +91,7 @@ sudo raspi-config
 
 ## Gehe nun zum Abteil General, activiere "Connect automatically with priority" und setze die Priorität auf 0. Sichere am Schluss die vorgenommenen Änderungen
 
-![Problem with loading the image](/images/Bild_12.webp "Gehe nun zum Abteil General, activiere "Connect automatically with priority" und setze die Priorität auf 0. Sichere am Schluss die vorgenommenen Änderungen")
+![Problem with loading the image](/images/Bild_12.webp "Gehe nun zum Abteil General, activiere Connect automatically with priority und setze die Priorität auf 0. Sichere am Schluss die vorgenommenen Änderungen")
 
 
 
@@ -101,8 +101,7 @@ sudo raspi-config
 
 ## Um die Infos über das Wi-Fi ersichtlich zu machen, klicke abermals auf das Netzwerk-Icon und dann auf Advanced Options -> Connection Information. 
 
-![Problem with loading the image](/images/Bild_13.webp "Um die Infos über das Wi-Fi ersichtlich zu machen, klicke abermals auf das Netzwerk-Icon und dann auf Advanced Options -> Connection Information. 
-")
+![Problem with loading the image](/images/Bild_13.webp "Um die Infos über das Wi-Fi ersichtlich zu machen, klicke abermals auf das Netzwerk-Icon und dann auf Advanced Options -> Connection Information")
 
 
 
