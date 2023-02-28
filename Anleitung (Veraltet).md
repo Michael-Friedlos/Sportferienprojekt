@@ -255,4 +255,54 @@ reboot
 
 
 
+## Gute Befehle für die Problembehebung und Informationsbeschaffung
+
+```
+ip a
+
+```
+
+
+```
+ps -ef | grep host
+
+```
+
+
+
+```
+sudo systemctl status hostapd
+
+```
+
+
+
+```
+sudo systemctl start hostapd
+
+```
+
+
+
+```
+sudo systemctl enable hostapd
+
+```
+
+
+
+```
+sudo systemctl stop hostapd
+
+```
+
+
+
+```
+journalctl -xe
+
+```
+
+
+
 ### Anleitung von https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/168-raspberry-pi-hotspot-access-point-dhcpcd-method
